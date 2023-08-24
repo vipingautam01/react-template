@@ -6,7 +6,9 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-  <Navbar></Navbar>
+  // <Navbar title = "New title " />
+  // <Navbar title = "Navbar of website " />
+  <Navbar title = "Navbar of website " aboutText = "New home" />
   );
 }
 
